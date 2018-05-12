@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5514'
     url: http://www.gutenberg.org/2009/agents/5514
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14419#Grammatical-Sketch-of-the-Heve-Language--13-Shea-s-Library-of-American-Linguistics.-Volume-II_
 gutenberg_bookshelf: Language Education
 gutenberg_issued: '2004-12-22'
 gutenberg_type: Text
